@@ -12,3 +12,7 @@ test.db
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Development variables #
+#########################
+./backend/src/.flaskenv
